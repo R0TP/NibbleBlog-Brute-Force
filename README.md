@@ -12,4 +12,4 @@ optional arguments:
   --network NETWORK    This option is to specify the network (EX: 192.168.1.0/24) to spoof the source IP addresses
   --url URL            This option is to specify the target URL with the admin.php uncluded
   
-  if you want to contribute please contact me at mail:rafaelonieltrinidadpolanco@gmail.com
+  if you want to contribute please contact me at rafaelonieltrinidadpolanco@gmail.com
