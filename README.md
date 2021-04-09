@@ -6,3 +6,6 @@ usage: nibbleblog-brute-force.py [-h] [--username USERNAME] [--wordlist WORDLIST
 Simple NibbleBlog Brute Force Attack Tool
 
 ![help](help.png)
+
+Contact:
+rafaelonieltrinidadpolanco@gmail.com
