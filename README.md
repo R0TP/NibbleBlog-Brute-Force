@@ -5,4 +5,4 @@ usage: nibbleblog-brute-force.py [-h] [--username USERNAME] [--wordlist WORDLIST
 
 Simple NibbleBlog Brute Force Attack Tool
 
-![help.png]
+![help](help.png)
