@@ -3,7 +3,6 @@ import requests
 from sys import argv
 from netaddr import IPNetwork
 from argparse import ArgumentParser
-ip = 0
 
 def bruteForce(ip_address, username, password, url):
     login_failed = "Incorrect username or password."
@@ -37,6 +36,7 @@ if len(argv) == 1:
     parser.print_help()
     exit()
 
+ip = 0
 network = list(str(ip) for ip in IPNetwork(given_args.network))
 wordlist = (password.replace("\n", "") for password in open(given_args.wordlist).readlines())
 
